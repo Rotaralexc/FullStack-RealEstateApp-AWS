@@ -9,6 +9,7 @@ import FiltersFull from "./FiltersFull";
 import { setFilters } from "@/state";
 import { cleanParams } from "@/lib/utils";
 import Map from "./Map";
+import Listings from "./Listings";
 
 
 
